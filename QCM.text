@@ -1,0 +1,130 @@
+Question 1: Qu'est-ce que TailwindCSS ?
+C) Un framework CSS
+
+Question 2: Comment TailwindCSS implémente-t-il le responsive design ?
+A) Avec des classes spécifiques pour chaque appareil
+B) Par des media queries intégrées
+C) En utilisant des classes préfixées
+D) Par des composants React
+
+Question 3: Quel est le principal avantage de TailwindCSS ?
+A) Fournit des composants UI prédéfinis
+B) Réduit la taille du fichier CSS
+C) Facilite la création de designs personnalisés sans CSS complexe
+D) Intègre un éditeur visuel pour le design
+
+Question 4: Comment installe-t-on TailwindCSS dans un projet ?
+A) En téléchargeant un fichier CSS
+B) Via un CDN
+C) En l'installant via npm ou yarn
+D) Par un plugin WordPress
+
+Question 5: Que signifie "utility-first" dans TailwindCSS ?
+A) Utilisation de JavaScript pour ajouter des fonctionnalités
+B) Classes pour des styles spécifiques et uniques
+C) Composants réutilisables
+D) Classes de base pour animations
+
+Question 6: Comment TailwindCSS gère-t-il les variantes de couleurs ?
+
+- A) En utilisant des variables CSS pour définir des teintes personnalisées
+- B) Avec des classes prédéfinies pour chaque couleur
+- C) Par un système de thème intégré
+- D) En utilisant des fonctions JavaScript
+
+Question 7: Quel est le rôle de PurgeCSS avec TailwindCSS ?
+A) Optimiser les images
+B) Nettoyer le HTML
+C) Réduire la taille du fichier CSS final
+D) Compiler le CSS
+
+Question 8: Comment TailwindCSS facilite-t-il la personnalisation ?
+A) Avec un fichier de configuration
+B) Par des variables Sass
+C) Via un outil en ligne
+D) En modifiant directement les fichiers source
+
+Question 9: Quel est l’élément de base de TailwindCSS ?
+A) Les composants
+B) Les utility classes
+C) Les sélecteurs CSS
+D) Les mixins
+
+Question 10: TailwindCSS nécessite-t-il l'usage de JavaScript ?
+A) Oui, de manière extensive
+B) Non, c'est optionnel
+C) Seulement pour les animations
+D) Uniquement pour les interactions dynamiques
+
+Question 11: Quelle commande utilise-t-on pour créer un fichier de configuration
+TailwindCSS ?
+
+A) tailwind init
+B) tailwind config
+C) tailwind start
+D) tailwind setup
+
+Question 12: Comment TailwindCSS gère-t-il les bordures ?
+A) Avec des classes spécifiques pour chaque style de bordure
+B) Via des propriétés CSS personnalisées
+C) En utilisant des préfixes
+D) Avec des variables globales
+
+Question 13: Qu'est-ce qu'un plugin TailwindCSS ?
+A) Un outil pour intégrer Tailwind dans des frameworks
+B) Un moyen d'ajouter des fonctions JavaScript
+C) Un moyen d'étendre les fonctionnalités de Tailwind
+D) Un composant UI préconçu
+
+Question 14: Comment TailwindCSS traite-t-il les médias queries ?
+
+A) Avec des préfixes pour les classes, comme "md:" pour les tailles moyennes d'écran
+
+B) En utilisant des propriétés CSS personnalisées
+
+C) Via un fichier de configuration séparé
+
+D) Avec des suffixes pour les classes
+
+Question 15: TailwindCSS est-il compatible avec le préprocesseur Sass ?
+
+A) Oui, mais il nécessite une configuration personnalisée
+
+B) Non, ils ne sont pas compatibles
+
+C) Partiellement, avec des ajustements spécifiques
+
+D) Seulement avec un plugin spécifique
+
+Question 16: Comment TailwindCSS gère-t-il les ombres ?
+A) Avec des classes spécifiques pour chaque type d'ombre
+B) Par des mixins Sass
+C) En utilisant des propriétés CSS personnalisées
+D) Via JavaScript
+
+Question 17: Peut-on utiliser TailwindCSS avec des frameworks JavaScript comme
+React ou Vue ?
+A) Oui, mais avec des limitations
+B) Non, ils ne sont pas compatibles
+C) Oui, parfaitement
+D) Seulement avec des configurations spéciales
+
+Question 18: Quelle est la méthode recommandée pour gérer les espacements
+dans TailwindCSS ?
+A) En utilisant des classes prédéfinies
+B) Par des propriétés CSS
+C) Avec des variables globales
+D) Par des mixins Sass
+
+Question 19: Comment TailwindCSS gère-t-il les tailles de police ?
+A) Avec un ensemble de classes prédéfinies
+B) En utilisant des variables CSS
+C) Avec des fonctions JavaScript
+D) Par des fichiers de configuration
+
+Question 20: Quel est le meilleur moyen de commencer avec TailwindCSS pour un
+débutant ?
+A) Lire la documentation officielle
+B) Suivre un tutoriel en ligne
+C) Installer un template préconçu
+D) Utiliser un générateur de site statique
